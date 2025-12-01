@@ -7,7 +7,7 @@ int main()
     {
         if (!clsLoginScreen::ShowLoginScreen())
         {
- 
+        }
     }
     return 0;
 }
