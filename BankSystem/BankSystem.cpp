@@ -2,8 +2,6 @@
 #include "clsLoginScreen.h"
 
 int main()
-            break;
-        }
 {
     while (true)
     {
